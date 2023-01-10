@@ -9,7 +9,7 @@
 - company: Machine Learning Research Assistant
   position:  King's College London
   duration:  Jun, 2020 &mdash; Sept, 2020
-  summary: Summer research placement on leveraging ensemble machine learning models to predict preterm and term neonatal phenotypes from multi-modal magnetic resonance imaging and data.<ul class="resume-item-list"><li>Developing object-orientated and reusable Python code. Python libraries used: sklearn, matplotlib, pandas and numpy.</li><li>Carrying out large scale image processing using custom built Python scripts.</li></ul>
+  summary: Summer research placement on leveraging ensemble machine learning models to predict preterm and term neonatal phenotypes from multi-modal magnetic resonance imaging and data.<ul class="resume-item-list"><li>Developing object-orientated and reusable Python code. Python libraries - sklearn, matplotlib, pandas and numpy.</li><li>Carrying out large scale image processing using custom built Python scripts.</li></ul>
 
 
 # Communications Coordinator
