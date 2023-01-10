@@ -4,7 +4,9 @@
 #- description: Beginner proficiency - C++
 #- description: Object-oriented programming
 #- description: Deep learning - Pytorch and Tensorflow
-- description: Machine learning
+- description: Machine and deep learning
 - description: Cardiac biophysical modelling
 - description: Medical Image analysis
 - description: Data science
+- description: Pytorch and Tensorflow
+- description: Python, MATLAB, UNIX and R
