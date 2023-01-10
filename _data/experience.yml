@@ -1,15 +1,15 @@
 # Jobs
 # VP of Global Communications
 - company: Teaching Assistant 
-  position: Kings College London
+  position: King's College London
   duration: Oct, 2021 &mdash; Present
   summary: Introduction to Physics for Biomedical Engineers (first year module), Electromagnetism (second year) and Bioelectricity	(third year module)	<ul class="resume-item-list"><li>Marking undergraduate coursework.</li><li>Teaching assistant for a tutorial on computationally solving the monodomain equation (a cardiac electrophysiological partial differential equation) in 0D and 2D.</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Machine Learning Research Assistant
+  position:  King's College London
+  duration:  Jun, 2020 &mdash; Sept, 2020
+  summary: Summer research placement on leveraging ensemble machine learning models to predict preterm and term neonatal phenotypes from multi-modal magnetic resonance imaging and data.
 
 
 # Communications Coordinator
