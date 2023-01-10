@@ -4,12 +4,12 @@
   year: 2017 &mdash; 2020
   award: First
 
-#- degree: Biomedical and Translational Sciences MRes 
-#  uni: Kings College London
-#  year: 2020 &mdash; 2021 &mdash; Distinction
-#  award: Projects - Applying Deep Learning to Neuroimaging Alzheimer’s Disease Classification, Real-time Cardiac Magnetic Resonance Imaging Motion-Correction using Deep Learning, Application of Deep Learning to Predict Optimal Ablation Therapy for Atrial Fibrillation from Magnetic Resonance Imaging Data. 
+- degree: Biomedical and Translational Sciences MRes 
+  uni: Kings College London
+  year: 2020 &mdash; 2021
+  award: Distinction
 
-#- degree: Biomedical Engineering and Imaging Sciences PhD
- # uni: Kings College London
- # year: 2021 &mdash; Present &mdash; Ongoing
-#  award: Title - Optimising Ablation Therapy for Atrial Fibrillation using Deep Learning and Magnetic Resonance Imaging Data
+- degree: Biomedical Engineering and Imaging Sciences PhD
+  uni: Kings College London
+  year: 2021 &mdash; Present Ongoing
+  award: Ongoing
