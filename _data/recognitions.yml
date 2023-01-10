@@ -1,10 +1,10 @@
 # Recognitions
 - award: Can artificial intelligence prediction of successful atrial fibrillation catheter ablation therapy be interpretable
-  organization: S Ogbomo-Harmitt, M Muffoletto, A Zeidan, A Qureshi, A King, O Aslanidi
+  organization: European Heart Journal 
   year: 2022
-  summary: European Heart Journal
+  summary: S Ogbomo-Harmitt, M Muffoletto, A Zeidan, A Qureshi, A King, O Aslanidi
   
-- award: TESSLA: Two-Stage Ensemble Scar Segmentation for the Left Atrium
-  organization: Shaheim Ogbomo-Harmitt, Jakub Grzelak, Ahmed Qureshi, Andrew P King, Oleg Aslanidi
-  year: 2022
-  summary: Preprint
+#- award: TESSLA: Two-Stage Ensemble Scar Segmentation for the Left Atrium
+#  organization: Shaheim Ogbomo-Harmitt, Jakub Grzelak, Ahmed Qureshi, Andrew P King, Oleg Aslanidi
+#  year: 2022
+#  summary: Preprint
